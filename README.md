@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://github.com/VaitVhat52">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VaitVhat52&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VaitVhat52&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
